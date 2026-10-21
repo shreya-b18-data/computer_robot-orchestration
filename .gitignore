@@ -18,3 +18,7 @@ exports/
 node_modules/
 dist/
 coverage/
+
+__pycache__/
+*.pyc
+.pytest_cache/
