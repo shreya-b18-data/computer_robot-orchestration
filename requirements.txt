@@ -1,0 +1,5 @@
+# The current prototype is a static HTML/CSS/JavaScript application.
+# It does not require Python packages.
+#
+# If a Python-based robot controller or MQTT/ROS 2 bridge is added later,
+# list its pinned dependencies here after choosing and testing the stack.

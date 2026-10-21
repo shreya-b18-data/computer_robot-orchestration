@@ -1,0 +1,13 @@
+{
+  "name": "computer-robot-orchestration-simulation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser simulation of PC-to-robot and robot-to-robot orchestration",
+  "scripts": {
+    "start": "http-server . -p 8080",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
